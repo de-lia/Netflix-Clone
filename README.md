@@ -7,7 +7,7 @@ Netflix-Clone is a simulation of [Netflix](https://netflix.com) built using HTML
 ![Repo Desktop Demo](image url)
 ![Repo Mobile Demo](image url) -->
 
-## Prerequisites
+## Pre-requisites
 
 Before you begin, ensure you have met the following requirements:
 
@@ -31,7 +31,7 @@ git clone https://github.com/de-lia/Netflix-Clone.git
 
 ## Contact
 
-You can contact or connect with me by reaching out on [Twitter](https://twitter.com/delia.py)
+You can contact or connect with me by reaching out on [Twitter](https://twitter.com/delia.py).
 
 ## License
 
