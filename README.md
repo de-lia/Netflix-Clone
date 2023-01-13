@@ -1,11 +1,11 @@
 # Netlix-Clone
 
-Netflix-Clone is a fully responsive personal portfolio website, responsive for all devices, built using HTML and CSS only.
+Netflix-Clone is a simulation of [Netflix](https://netflix.com) built using HTML and CSS only.
 
-## Demo
+<!-- ## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Repo Desktop Demo](image url)
+![Repo Mobile Demo](image url) -->
 
 ## Prerequisites
 
@@ -13,25 +13,25 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing vCard
+## Installing Netflix_Clone
 
-To install **vCard**, follow these steps:
+To install **Netflix-Clone**, follow these steps:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/de-lia/Netflix-Clone.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/de-lia/Netflix-Clone.git
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+You can contact or connect with me by reaching out on [Twitter](https://twitter.com/delia.py)
 
 ## License
 
